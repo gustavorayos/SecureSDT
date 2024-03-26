@@ -28,7 +28,7 @@ Copy entire package to system. The .exe will not install anything, it will only 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Hat tip to developers and posters on forums (Stack Overflow, Reddit, YouTube, etc)
 * Inspiration
 * etc
 
