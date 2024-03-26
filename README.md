@@ -8,7 +8,7 @@ SecureSDT is designed with a simple GUI and meant to be executed through the .ex
 
 ### Prerequisites
 
-1) Windows 10 system
+1) Windows 10 or Windows 11 system
 2) Admin privileges on system
 
 ### Installing
