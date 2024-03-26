@@ -32,5 +32,4 @@ Copy entire package to system. The .exe will not install anything, it will only 
 * Inspiration
 * etc
 
-![SecureSDT](https://github.com/gustavorayos/SecureSDT/assets/8792052/c289d23f-7b3a-4575-8338-e71762b39633)
-
+![SecureSDT](https://github.com/gustavorayos/SecureSDT/assets/8792052/ec06ccfc-cd51-4513-acde-a8816331710f)
