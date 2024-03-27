@@ -31,4 +31,14 @@ Copy entire package to system. The .exe will not install anything, it will only 
 * Hat tip to developers and posters on forums (Stack Overflow, Reddit, YouTube, etc)
 * Inspiration
 
+## Screenshots
+
+User interface
 ![SecureSDT](https://github.com/gustavorayos/SecureSDT/assets/8792052/ec06ccfc-cd51-4513-acde-a8816331710f)
+
+Before running SecureSDT SCAP score
+![Windows-PreSTIG-SCAP](https://github.com/gustavorayos/SecureSDT/assets/8792052/1f8de440-72b9-40c2-941f-c780595e3048)
+
+After running SecureSDT SCAP score
+![Windows-PostSTIG-SCAP](https://github.com/gustavorayos/SecureSDT/assets/8792052/fa12b7c4-bdb6-4e19-ae08-4925a1afa7fa)
+
