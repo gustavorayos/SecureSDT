@@ -1,6 +1,6 @@
 # SecureSDT
 
-Secure Standard Deployment Toolkit (SDT) is used to securely configure Windows 10 systems to STIG standards.
+SecureSDT (Standard Deployment Toolkit) is used to securely configure Windows 10 systems to STIG standards.
 
 ## Getting Started
 
